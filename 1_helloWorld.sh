@@ -1,5 +1,5 @@
 #!/bin/bash
 
-TEXTO="Hello World" #É obrigatorio o nome da variaver e o sinal de = estarem colados
+TEXTO="Hello World" #É obrigatorio que o nome da variaver e o sinal de = estajam colados
 
-echo $TEXTO
+echo $TEXTO+
